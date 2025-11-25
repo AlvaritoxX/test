@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.0.0",
+    "@hotwired/turbo-rails": "^7.0.0"
+  }
+  
+}
